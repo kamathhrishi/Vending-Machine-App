@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VendingMachineApp</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_credit_card_reg">Credit Card Details</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_cart">Items</string>
+    <string name="title_activity_item">Order</string>
+</resources>
+
+
